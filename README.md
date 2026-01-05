@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning **selenium, TestNG**
 
 - 📫 How to reach me **pramodyailukpitiya@gmail.com**
+- My Portfolio **https://pramodya22.github.io/Portfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
